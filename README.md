@@ -1,6 +1,6 @@
 # File_explorer_Tkinter
 
-This app is a small file explorer app. In which you can search files from your desktop and merge thier data into one single file. 
+This is a small file explorer app. In which you can search files from your desktop and merge thier data into one single file. 
 
 This app can search all different types of file.
 
